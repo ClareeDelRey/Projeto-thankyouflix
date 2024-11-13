@@ -1,0 +1,27 @@
+body {
+    color: white ;
+    background-color: lightblue ;
+}    
+
+header{
+    border-bottom: solid 1px white;
+    padding: 10px;
+    font-size: 20px;
+    color: white( 42, 122, 228);
+}
+
+h1 { 
+    font-size: 30px;
+
+}
+
+p {
+    font-size: 20px;
+}
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+}
